@@ -1,6 +1,7 @@
 ---
 marp: true
 class: invert 
+size: 16:9
 ---
 # <!--fit-->Introdução a programação de jogos
 

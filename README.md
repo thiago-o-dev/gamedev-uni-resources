@@ -1,12 +1,18 @@
 <!--
 --- 
 marp: true
+theme: gaia
+class: invert
 paginate: true
 headingDivider: 2 
+size: 16:9
 ---
 -->
 
-# <!--fit-->Curso: Introdução ao gamedev.
+<!--
+_class: lead invert gaia
+-->
+# <!--fit-->Minicurso: Introdução ao gamedev.
 ###### Clique nos titulos para abrir as aulas.
  
 # [Aula 1](https://thiago-o-dev.github.io/gamedev-uni-resources/docs/lesson-1) 
