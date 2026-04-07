@@ -16,9 +16,13 @@ size: 16:9
 # Ferramentas do curso
 * **Godot** para game engine
 * **PlantUML** para visualização de gráficos (opcional)
-* Aulas e códigos **disponiveis** em: 
-## <!--fit--> **https://github.com/thiago-o-dev/gamedev-uni-../img**
+
+---
+# Aulas e códigos **disponiveis** no github: 
+## <!--fit--> https://github.com/thiago-o-dev/gamedev-uni-resources
 * (me sigam lá)
+# Site buildado:
+## <!--fit--> https://thiago-o-dev.github.io/gamedev-uni-resources/
 
 ---
 
@@ -68,9 +72,9 @@ size: 16:9
 ![width:300px brightness:0.3 bg](../img/godot_logo.png)
 
 ## <!--fit-->São **ferramentas**, cada uma vai facilitar **um processo diferente**.
-- ## **Unity** tem um asset store estupido de grande.
-- ## **Unreal** tem shaders incriveis e ótimos gráficos.
-- ## **Godot** é ótimo para projetos 2D e código leve.
+* ## **Unity** tem um asset store estupido de grande.
+* ## **Unreal** tem shaders incriveis e ótimos gráficos.
+* ## **Godot** é ótimo para projetos 2D e código leve.
 
 ---
 
