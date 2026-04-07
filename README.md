@@ -1,4 +1,3 @@
-<!--
 --- 
 marp: true
 theme: gaia
@@ -7,7 +6,6 @@ paginate: true
 headingDivider: 2 
 size: 16:9
 ---
--->
 
 <!--
 _class: lead invert gaia
