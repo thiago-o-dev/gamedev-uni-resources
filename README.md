@@ -1,10 +1,10 @@
 --- 
 marp: true
+size: 16:9
 theme: gaia
 class: invert
 paginate: true
 headingDivider: 2 
-size: 16:9
 ---
 
 <!--

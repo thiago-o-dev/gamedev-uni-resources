@@ -1,7 +1,7 @@
 ---
 marp: true
-class: invert 
 size: 16:9
+class: invert 
 ---
 # <!--fit-->Introdução a programação de jogos
 
@@ -19,10 +19,10 @@ size: 16:9
 
 ---
 # Aulas e códigos **disponiveis** no github: 
-## <!--fit--> https://github.com/thiago-o-dev/gamedev-uni-resources
+## <!--fit--> https://github.com/thiago-o-dev/courses
 * (me sigam lá)
 # Site buildado:
-## <!--fit--> https://thiago-o-dev.github.io/gamedev-uni-resources/
+## <!--fit--> https://thiago-o-dev.github.io/courses/
 
 ---
 
