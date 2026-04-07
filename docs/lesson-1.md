@@ -16,7 +16,7 @@ class: invert
 * **Godot** para game engine
 * **PlantUML** para visualização de gráficos (opcional)
 * Aulas e códigos **disponiveis** em: 
-## <!--fit--> **https://github.com/thiago-o-dev/gamedev-uni-resources**
+## <!--fit--> **https://github.com/thiago-o-dev/gamedev-uni-../img**
 * (me sigam lá)
 
 ---
@@ -26,7 +26,7 @@ class: invert
 
 ---
 
-![width:600px bg](resources/unity_logo.png)
+![width:600px bg](../img/unity_logo.png)
 # Unity 
 * ## A **mais famosa e mais utilizada profissionalmente**.
 * ## Utiliza **C#**  para programar.
@@ -36,7 +36,7 @@ class: invert
 
 ###### Subway Surfers, Pokémon GO, Hollow Knight, Among Us, Fall Guys, Cuphead, Untitled Goose Game, Subnautica, Ultrakill...
 ---
-![width:600px invert brightness:0.2 bg](resources/unreal_logo.png)
+![width:600px invert brightness:0.2 bg](../img/unreal_logo.png)
 # Unreal
 * ## Graficos estupidos de bons.
 * ## Ótimo sistema de programação no code.
@@ -44,7 +44,7 @@ class: invert
 * ## Editor pesado **pra caralho**.
 ###### Fortnite, Hogwarts Legacy, Final Fantasy VII Remake, Batman: Arkham Knight, PUBG, Rocket League, Black Myth: Wukong, Gears of War...
 ---
-![width:600px brightness:0.3 bg](resources/godot_logo.png)
+![width:600px brightness:0.3 bg](../img/godot_logo.png)
 # Godot
 * ## Iniciativa **FOSS**, sempre será gratuito.
 * ## Desenvolvimento 2D muito simples.
@@ -54,17 +54,17 @@ class: invert
 ###### Buckshot Roulette, Cassete Beasts, Brotato, Dog Walk (jogo do blender), Slay the Spire 2, Dome Keeper, Endoparasitic, EX-Zodiac, Gourdlets, Sonic Colors Ultimate...
 ---
 
-![width:300px bg](resources/unity_logo.png)
-![width:300px invert brightness:0.2 bg](resources/unreal_logo.png)
-![width:300px brightness:0.3 bg](resources/godot_logo.png)
+![width:300px bg](../img/unity_logo.png)
+![width:300px invert brightness:0.2 bg](../img/unreal_logo.png)
+![width:300px brightness:0.3 bg](../img/godot_logo.png)
 
 # <!--fit-->Algum é melhor que o outro?
 
 ---
 
-![width:300px bg](resources/unity_logo.png)
-![width:300px invert brightness:0.2 bg](resources/unreal_logo.png)
-![width:300px brightness:0.3 bg](resources/godot_logo.png)
+![width:300px bg](../img/unity_logo.png)
+![width:300px invert brightness:0.2 bg](../img/unreal_logo.png)
+![width:300px brightness:0.3 bg](../img/godot_logo.png)
 
 ## <!--fit-->São **ferramentas**, cada uma vai facilitar **um processo diferente**.
 - ## **Unity** tem um asset store estupido de grande.
@@ -73,9 +73,9 @@ class: invert
 
 ---
 
-![width:300px bg brightness:0.1](resources/unity_logo.png)
-![width:300px brightness:0.1 bg](resources/unreal_logo.png)
-![width:300px brightness:0.05 bg](resources/godot_logo.png)
+![width:300px bg brightness:0.1](../img/unity_logo.png)
+![width:300px brightness:0.1 bg](../img/unreal_logo.png)
+![width:300px brightness:0.05 bg](../img/godot_logo.png)
 
 ## <!--fit-->Escolha com base no **seu problema** e **suas capacidades**.
 
