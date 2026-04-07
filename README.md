@@ -1,11 +1,9 @@
 ---
 marp: true
-class: invert 
 ---
 # <!--fit-->Curso: Introdução ao gamedev.
-###### aulas a seguir
+###### Clique nos titulos para abrir as aulas.
 ---
-###### Clique no titulo para abrir a aula.
 # [Aula 1](https://thiago-o-dev.github.io/gamedev-uni-resources/docs/lesson-1) 
 - Ferramentas que serão utilizadas no curso.
 - Diferenças entre game engines.
